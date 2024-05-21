@@ -1,0 +1,15 @@
+
+.feature{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.cartContent{
+    padding-top: 0;
+}
+
+.divider{
+    margin: 20px 0;
+}

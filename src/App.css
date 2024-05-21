@@ -1,0 +1,19 @@
+
+
+@media (min-width:900px){
+  .desktop{
+    display:none;
+  }
+
+}
+
+@media (max-width:900px){
+  .mobile{
+    display: none
+  }
+
+}
+
+.grid > *{
+    margin: 16px;
+}
