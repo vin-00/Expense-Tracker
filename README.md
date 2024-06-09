@@ -1,6 +1,6 @@
 # Money Tracker Website
 ## [Check it out](https://money-tracker-cd74a4.netlify.app/)
-## Welcome to my Money Tracker ! This application allows you to efficiently manage your expenses and incomes across various categories. With a user-friendly interface and robust features, you can track your financial activities seamlessly. Here's a guide to help you get started:
+## Welcome to my Money Tracker Website! This application allows you to efficiently manage your expenses and incomes across various categories. With a user-friendly interface and robust features, you can track your financial activities seamlessly. Here's a guide to help you get started:
 
 # Features:
 - Expense and Income Management: Record your expenses and incomes effortlessly. Categorize them to maintain a structured overview of your financial transactions.
