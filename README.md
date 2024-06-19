@@ -13,7 +13,7 @@
   
 - Visual Representation: Visualize your financial data with interactive doughnut charts. Gain insights into your expenditure and income distribution at a glance.
 
--Custom Category Creation : Create your own categoies for expenses and incomes . 
+- Custom Category Creation : Create your own categoies for expenses and incomes . 
 
 # Getting Started:
 
